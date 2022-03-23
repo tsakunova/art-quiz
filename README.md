@@ -1,7 +1,6 @@
 **ArtQuiz** - приложение-викторина на знание шедевров живописи и их авторов.
 
-
-[**Deploy**](https://tsakunova.github.io/art-quiz/)
+[![DEMO](https://img.shields.io/badge/-DEMO-maroon?style=for-the-badge)](https://tsakunova.github.io/art-quiz/)
 
 
 ![image](https://user-images.githubusercontent.com/55032592/143076094-0bea8789-7ffe-427b-b496-e94c98dfe209.png)
